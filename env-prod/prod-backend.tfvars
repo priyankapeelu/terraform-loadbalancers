@@ -1,3 +1,3 @@
-bucket = "terraform-d63"
+bucket = "terraformd63"
 key    = "vpc/prod/terraform.tfstate"
 region = "us-east-1"
